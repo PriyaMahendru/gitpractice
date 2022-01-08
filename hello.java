@@ -1,4 +1,4 @@
-4.	class Hello
+class Hello
 
 {
 
